@@ -21,6 +21,13 @@ for p in open_ports:
 
 print("\nScan complete.")
 
+Utility:
+Port scanning is used to identify which services are running on a system by checking which ports are open. 
+This helps security teams understand what’s exposed to the network, and whether any of those 
+services are vulnerable or unnecessary. By analyzing these results, administrators can take steps to improve 
+system security—such as closing unused ports, applying firewall rules, or updating software—to reduce 
+the risk of cyber attacks.
+
 
 
 
