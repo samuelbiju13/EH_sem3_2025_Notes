@@ -1,3 +1,4 @@
+Title: PYTHON SOCKET PORT SCANNER
 Aim: To scan ports on a target host using Python and identify active services, helping assess its network exposure and security posture.
 Python program:
 import socket
